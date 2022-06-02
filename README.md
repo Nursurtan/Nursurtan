@@ -1,7 +1,8 @@
 <img src="Nursultan Arapov.png" alt="bannel" />
 
 <h1>
-Hello, folks!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
+Hello, folks!
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/> -->
 </h1>
 <h3>
 My name is Nursultan Arapov and I'm an iOS Developer. I'm from Russia, living in Novosibirsk. I do a lot of things, and some of them you may even find interesting.:grin:
